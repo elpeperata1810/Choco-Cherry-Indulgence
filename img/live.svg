@@ -1,7 +1,7 @@
 <svg class="svg-overlay" width="137" height="48" viewBox="0 0 137 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="Botom live">
                     <g id="Group 4">
-                        <path id="ROJO" d="M41.5151 0H113.129C126.312 0 137 10.6875 137 23.8712C137 37.055 126.312 47.7424 113.129 47.7424H41.5151V0Z" fill="#FF1010"></path>
+                        <path id="ROJO" d="M41.5151 0H113.129C126.312 0 137 10.6875 137 23.8712C137 37.055 126.312 47.7424 113.129 47.7424H41.5151V0Z" fill="#fd0131"></path>
                     </g>
                     <g id="Group 3">
                         <path id="blanco" d="M41.5152 0H23.8712C10.6875 0 0 10.6875 0 23.8712C0 37.055 10.6875 47.7424 23.8712 47.7424H41.5152V0Z" fill="white"></path>
@@ -35,4 +35,6 @@
       animation: parpadeo 1s infinite;
     }
   </style>
+
+  
             </svg>
